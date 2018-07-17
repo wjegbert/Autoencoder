@@ -6,3 +6,5 @@ A simple image autoencoder for the CIFAR 10 dataset. Compresses images by over 8
 ![Initial](Initial.png "On the first iteration.")
 ### Trained output
 ![Final](Final.png "When it learns to rebuild from the latent vector!")
+
+idk how to format images in markdown lol
